@@ -4,3 +4,5 @@ API em Node.js com serviço de autenticação utilizando JWT, disponibilizado em
 
 Objetivo
 Exemplo didático de como rodar uma aplicação Node.js dentro de um container Docker utilizando autenticação através da geração de chave de acesso.
+
+mais ...
